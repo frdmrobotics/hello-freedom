@@ -1,5 +1,9 @@
+function sayWelcome() {
+  return console.log('and welcome to freedom');
+}
+
 function helloFreedom() {
-  return console.log('hello freedom');
+  console.log('hello there') + sayWelcome();
 }
 
 module.exports = helloFreedom;
