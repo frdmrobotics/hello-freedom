@@ -30,7 +30,6 @@ yarn-error.log*
 # now deployment
 .now
 .env.build
-package-lock.json
 
 # cypress
 /cypress/videos/**/*
