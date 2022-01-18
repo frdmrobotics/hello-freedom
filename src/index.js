@@ -1,5 +1,5 @@
 function sayWelcome() {
-  // test
+  // test 2
   return console.log('and welcome to freedom');
 }
 
