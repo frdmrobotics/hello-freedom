@@ -1,6 +1,6 @@
 {
   "name": "@freedomrobotics/hello-freedom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is just a test of how to publish a new NPM package from a github org",
   "main": "src/index.js",
   "private": false,
